@@ -1,6 +1,8 @@
 # Needed browser functionality
 
-## 
+## Content source verification
+## Network Default Deny
+
 
 # Recent browser functionality enhancements
 
